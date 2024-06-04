@@ -6,7 +6,7 @@ News coverage from across the country in recent years reveals an interest in cov
 
 In 2022, the NAACP asked the Alameda County Registrar of Voters to recount the votes from the mayoral election in Oakland. According to CBS News Bay Area, the registrar charged the organization $21,000 for each day the registrar recounted the votes; the NAACP called it voter suppression.
 
-![Caption for the picture.](day-1-memo/map_map.png)
+![Caption for the picture.](map_map.png)
 
 While a number of voices around the nation and in the Bay Area have paid attention to voter suppression, few news organizations have taken on the task of examining how voter suppression may occur in their own communities. Data from the Census Bureau and Berkeley Law could illuminate or clarify residents’ concerns about voter suppression, but with a local angle.
 

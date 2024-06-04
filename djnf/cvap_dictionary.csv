@@ -1,0 +1,34 @@
+CSV_FIELD,DBF_FIELD,DESCRIPTION
+BLOCK20,BLOCK20,2020 Census Block GEOID
+CIT_22,TotC,Citizen Population: Total (Line 1)
+NH_CIT_22,NHC,Citizen Population: Not Hispanic or Latino (Line 2)
+NH_Ind_CIT_22,NHIndC,Citizen Population: Not Hispanic or Latino: American Indian or Alaska Native Alone (Line 3)
+NH_Asn_CIT_22,NHAsnC,Citizen Population: Not Hispanic or Latino: Asian Alone (Line 4)
+NH_Blk_CIT_22,NHBlkC,Citizen Population: Not Hispanic or Latino: Black or African American Alone (Line 5)
+NH_Hwn_CIT_22,NHHwnC,Citizen Population: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander Alone (Line 6)
+NH_Wht_CIT_22,NHWhtC,Citizen Population: Not Hispanic or Latino: White Alone (Line 7)
+NH_IndWht_CIT_22,NHIndWhtC,Citizen Population: Not Hispanic or Latino: American Indian or Alaska Native and White (Line 8)
+NH_AsnWht_CIT_22,NHAsnWhtC,Citizen Population: Not Hispanic or Latino: Asian and White (Line 9)
+NH_BlkWht_CIT_22,NHBlkWhtC,Citizen Population: Not Hispanic or Latino: Black or African American and White (Line 10)
+NH_IndBlk_CIT_22,NHIndBlkC,Citizen Population: Not Hispanic or Latino: American Indian or Alaska Native and Black or African American (Line 11)
+NH_OthMR_CIT_22,NHOthMRC,Citizen Population: Not Hispanic or Latino: Remainder of Two or More Race Responses (Line 12)
+Hsp_CIT_22,HspC,Citizen Population: Hispanic or Latino (Line 13)
+CVAP_22,TotCV,Citizen Voting Age Population: Total (Line 1)
+NH_CVAP_22,NHCV,Citizen Voting Age Population: Not Hispanic or Latino (Line 2)
+NH_Ind_CVAP_22,NHIndCV,Citizen Voting Age Population: Not Hispanic or Latino: American Indian or Alaska Native Alone (Line 3)
+NH_Asn_CVAP_22,NHAsnCV,Citizen Voting Age Population: Not Hispanic or Latino: Asian Alone (Line 4)
+NH_Blk_CVAP_22,NHBlkCV,Citizen Voting Age Population: Not Hispanic or Latino: Black or African American Alone (Line 5)
+NH_Hwn_CVAP_22,NHHwnCV,Citizen Voting Age Population: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander Alone (Line 6)
+NH_Wht_CVAP_22,NHWhtCV,Citizen Voting Age Population: Not Hispanic or Latino: White Alone (Line 7)
+NH_IndWht_CVAP_22,NHIndWhtCV,Citizen Voting Age Population: Not Hispanic or Latino: American Indian or Alaska Native and White (Line 8)
+NH_AsnWht_CVAP_22,NHAsnWhtCV,Citizen Voting Age Population: Not Hispanic or Latino: Asian and White (Line 9)
+NH_BlkWht_CVAP_22,NHBlkWhtCV,Citizen Voting Age Population: Not Hispanic or Latino: Black or African American and White (Line 10)
+NH_IndBlk_CVAP_22,NHIndBlkCV,Citizen Voting Age Population: Not Hispanic or Latino: American Indian or Alaska Native and Black or African American (Line 11)
+NH_OthMR_CVAP_22,NHOthMRCV,Citizen Voting Age Population: Not Hispanic or Latino: Remainder of Two or More Race Responses (Line 12)
+Hsp_CVAP_22,HspCV,Citizen Voting Age Population: Hispanic or Latino (Line 13)
+DOJ_NH_Ind_CIT_22,DOJNHIndC,DOJ Tabulation: Citizen Population: Not Hispanic or Latino: American Indian or Alaska Native
+DOJ_NH_Blk_CIT_22,DOJNHBlkC,DOJ Tabulation: Citizen Population: Not Hispanic or Latino: Black or African American
+DOJ_NH_Asn_CIT_22,DOJNHAsnC,DOJ Tabulation: Citizen Population:Not Hispanic or Latino: Asian
+DOJ_NH_Ind_CVAP_22,DOJNHIndCV,DOJ Tabulation: Citizen Voting Age Population: Not Hispanic or Latino: American Indian or Alaska Native
+DOJ_NH_Blk_CVAP_22,DOJNHBlkCV,DOJ Tabulation: Citizen Voting Age Population: Not Hispanic or Latino: Black or African American
+DOJ_NH_Asn_CVAP_22,DOJNHAsnCV,DOJ Tabulation: Citizen Voting Age Population:Not Hispanic or Latino: Asian

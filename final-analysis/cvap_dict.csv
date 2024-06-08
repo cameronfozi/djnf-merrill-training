@@ -1,0 +1,14 @@
+,CSV_FIELD,DBF_FIELD,DESCRIPTION
+14,CVAP_22,TotCV,Total
+15,NH_CVAP_22,NHCV,Not Hispanic or Latino
+16,NH_Ind_CVAP_22,NHIndCV,American Indian or Alaska Native Alone
+17,NH_Asn_CVAP_22,NHAsnCV,Asian Alone
+18,NH_Blk_CVAP_22,NHBlkCV,Black or African American Alone
+19,NH_Hwn_CVAP_22,NHHwnCV,Native Hawaiian or Other Pacific Islander Alone
+20,NH_Wht_CVAP_22,NHWhtCV,White Alone
+21,NH_IndWht_CVAP_22,NHIndWhtCV,American Indian or Alaska Native and White
+22,NH_AsnWht_CVAP_22,NHAsnWhtCV,Asian and White
+23,NH_BlkWht_CVAP_22,NHBlkWhtCV,Black or African American and White
+24,NH_IndBlk_CVAP_22,NHIndBlkCV,American Indian or Alaska Native and Black or African American
+25,NH_OthMR_CVAP_22,NHOthMRCV,Remainder of Two or More Race Responses
+26,Hsp_CVAP_22,HspCV,Hispanic or Latino
